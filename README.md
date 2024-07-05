@@ -11,7 +11,7 @@
 
         <div class="section">
             <h2>O Campo</h2>
-            <p>No campo, a vida é caracterizada pela tranquilidade e pela proximidade com a natureza. As atividades principais incluem agricultura, pecuária e preservação ambiental.</p>
+            <p>No campo, a vida é retratada pela aprazibilidade e pela proximidade com a natureza. As atividades principais incluem agricultura, pecuária e preservação ambiental.</p>
             <div class="image">
                 <img src="campo.jpg" alt="Campo">
             </div>
@@ -19,7 +19,7 @@
 
         <div class="section">
             <h2>A Cidade</h2>
-            <p>Na cidade, a vida é mais agitada e diversificada. Há uma mistura de culturas, muitas oportunidades de trabalho e acesso a uma ampla gama de serviços e entretenimento.</p>
+            <p>Na cidade, a vida é mais abonada e diversificada. Há uma mistura de culturas, muitas oportunidades de trabalho e acesso a uma ampla gama de serviços e entretenimento.</p>
             <div class="image">
                 <img src="cidade.jpg" alt="Cidade">
             </div>
