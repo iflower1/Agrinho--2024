@@ -1,1 +1,39 @@
-# Agrinho--2024
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campo e Cidade</title>
+    <style>
+<body>
+    <div class="container">
+        <h1>Projeto: Campo e Cidade</h1>
+
+        <div class="section">
+            <h2>O Campo</h2>
+            <p>No campo, a vida é caracterizada pela tranquilidade e pela proximidade com a natureza. As atividades principais incluem agricultura, pecuária e preservação ambiental.</p>
+            <div class="image">
+                <img src="campo.jpg" alt="Campo">
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>A Cidade</h2>
+            <p>Na cidade, a vida é mais agitada e diversificada. Há uma mistura de culturas, muitas oportunidades de trabalho e acesso a uma ampla gama de serviços e entretenimento.</p>
+            <div class="image">
+                <img src="cidade.jpg" alt="Cidade">
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Comparação</h2>
+            <p>Apesar das diferenças, campo e cidade são interdependentes. A cidade depende da produção agrícola do campo, enquanto o campo frequentemente envia seus produtos para a cidade.</p>
+        </div>
+
+        <div class="section">
+            <h2>Conclusão</h2>
+            <p>Ambos os ambientes têm suas vantagens e desafios. O equilíbrio entre campo e cidade é crucial para o desenvolvimento sustentável e para a qualidade de vida de todos.</p>
+        </div>
+    </div>
+</body>
+</html>
